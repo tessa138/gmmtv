@@ -1,0 +1,16 @@
+<section id="about-us" class="about-us">
+    <h2>Gak Ngopi Gak Kuy!</h2>
+    <p>
+        Didirikan pada 2017, Kopi Kuy merupakan sebuah startup kopi retail yang ingin menyajikan kopi
+        dengan kualitas tinggi
+        untuk para pelanggannya. Nama Kuy yang diambil dari "yuk" yang merupakan harapan kami untuk
+        mengajak semua yang terlibat dalam bisnis kami untuk bersama-sama menikmati sajian kopi yang
+        berkualitas.
+    </p>
+    <img src="images/about-us/aset_kopi_jumbo.png">
+    <p>
+        Kopi dari petani terpilih, dan berkualitas tinggi diproses secara sempurna dan diteruskan
+        oleh para barista handal,
+        yang penuh semangat dalam menyiapkan segelas kebahagiaan spesial untukmu
+    </p>
+</section>

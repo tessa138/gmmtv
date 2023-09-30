@@ -1,0 +1,175 @@
+{
+    "postcard": [
+        {
+            "foto": "images/produk/onlyfriends.webp",
+            "nama": "ONLY FRIENDS POSTCARD SET",
+            "size": "12 pcs",
+            "harga": "155.000",
+            "link": "https://www.gmm-tv.com/shop/postcard/only-friends-postcard-set-th"
+        },
+        {
+            "foto": "images/produk/postcard_dr.webp",
+            "nama": "DANGEROUS ROMANCE POSTCARD SET",
+            "size": "12 pcs",
+            "harga": "155.000",
+            "link": "https://www.gmm-tv.com/shop/postcard/dangerous-romance-postcard-set-th"
+        },
+        {
+            "foto": "images/produk/postcard_ohmnon.webp",
+            "nama": "OHMNANON POSTCARD SET",
+            "size": "12 pcs",
+            "harga": "155.000",
+            "link": "https://www.gmm-tv.com/shop/postcard/ohmnanon-postcard-set-love-out-loud-fan-fest-2023-th"
+        },
+        {
+            "foto": "images/produk/postcard_thejungle.webp",
+            "nama": "THE JUNGLE POSTCARD SET",
+            "size": "12 pcs",
+            "harga": "155.000",
+            "link": "https://www.gmm-tv.com/shop/postcard/the-jungle-postcard-set-th"
+        }
+    ],
+    "photocard": [
+        {
+            "foto": "images/produk/pc_earthmix.webp",
+            "nama": "EARTHMIX PHOTOCARD SET",
+            "size": "9 pcs",
+            "harga": "250.000",
+            "link": "https://www.gmm-tv.com/shop/photocard/earthmix-exclusive-photocard-set-love-out-loud-fan-fest-2023-th"
+        },
+        {
+            "foto": "images/produk/postcard_ohmnon.webp",
+            "nama": "OHMNANON PHOTOCARD SET",
+            "size": "9 pcs",
+            "harga": "250.000",
+            "link": "https://www.gmm-tv.com/shop/photocard/ohmnanon-exclusive-photocard-set-love-out-loud-fan-fest-2023-th"
+        }
+    ],
+    "photobook": [
+        {
+            "foto": "images/produk/pb_beluca.webp",
+            "nama": "PHOTOBOOK BELUCA",
+            "size": "350 Gram",
+            "harga": "500.000",
+            "link": "https://www.gmm-tv.com/shop/photobook/the-official-photobook-of-beluca-fourtiverse-concert-th"
+        },
+        {
+            "foto": "images/produk/pb_bw.webp",
+            "nama": "SIDE BY SIDE BRIGHT WIN PHOTOBOOK",
+            "size": "350 Gram",
+            "harga": "500.000",
+            "link": "https://www.gmm-tv.com/shop/photobook/side-by-side-bright-win-concert-special-edition-photobook-th"
+        },
+        {
+            "foto": "images/produk/pb_new.webp",
+            "nama": "NEW EDGE | THE OFFICIAL PHOTOBOOK",
+            "size": "350 Gram",
+            "harga": "500.000",
+            "link": "https://www.gmm-tv.com/shop/photobook/new-edge-the-official-photobook-of-new-thitipoom-th"
+        },
+        {
+            "foto": "images/produk/pb_ohmnon.webp",
+            "nama": "ONVERSE | THE OFFICIAL PHOTOBOOK",
+            "size": "350 Gram",
+            "harga": "500.000",
+            "link": "https://www.gmm-tv.com/shop/photobook/on-verse-the-official-photobook-of-ohm-nanon-th"
+        },
+        {
+            "foto": "images/produk/pb_tay.webp",
+            "nama": "NOSTAYGIA | THE OFFICIAL PHOTOBOOK",
+            "size": "350 Gram",
+            "harga": "500.000",
+            "link": "https://www.gmm-tv.com/shop/photobook/nostaygia-the-official-photobook-of-tay-tawan-th"
+        }
+    ],
+    "lightstick": [
+        {
+            "foto": "images/produk/offgun.jpg",
+            "nama": "OFFGUN OFFICIAL LIGHT STICK",
+            "size": "250 Gram",
+            "harga": "1.050.000",
+            "link": "https://www.gmm-tv.com/shop/lightstick/offgun-official-light-stick-th"
+        },
+        {
+            "foto": "images/produk/polca.jpg",
+            "nama": "TAYNEW OFFICIAL LIGHT STICK",
+            "size": "250 Gram",
+            "harga": "955.000",
+            "link": "https://www.gmm-tv.com/shop/lightstick/taynew-official-light-stick-th"
+        }
+    ],
+    "doll": [
+        {
+            "foto": "images/produk/nanon doll.jpg",
+            "nama": "NANON DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https://www.gmm-tv.com/shop/doll-outfit/nanon-doll-keychain-stunning-series-th"
+        },
+        {
+            "foto": "images/produk/perth doll.jpg",
+            "nama": "PERTH DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https://www.gmm-tv.com/shop/doll-outfit/perth-doll-keychain-stunning-series-th"
+        },
+        {
+            "foto": "images/produk/new doll.jpg",
+            "nama": "NEW DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https://www.gmm-tv.com/shop/doll-outfit/new-doll-keychain-stunning-series-th"
+        },
+        {
+            "foto": "images/produk/tay doll.jpg",
+            "nama": "TAY DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https://www.gmm-tv.com/shop/doll-outfit/tay-doll-keychain-stunning-series-th"
+        },
+        {
+            "foto": "images/produk/gun doll.jpg",
+            "nama": "GUN DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https: //www.gmm-tv.com/shop/doll-outfit/gun-doll-keychain-stunning-series-th"
+        },
+        {
+            "foto": "images/produk/off dol.jpg",
+            "nama": "OFF DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https: //www.gmm-tv.com/shop/doll-outfit/off-doll-keychain-stunning-series-thh"
+        },
+        {
+            "foto": "images/produk/fourth doll.jpg",
+            "nama": "FOURTH DOLL KEYCHAIN",
+            "size": "100 Gram",
+            "harga": "550.000",
+            "link": "https://www.gmm-tv.com/shop/doll-outfit/fourth-doll-keychain-stunning-series-th"
+        }
+    ],
+    "shirt": [
+        {
+            "foto": "images/produk/homeschool.webp",
+            "nama": "HOME SCHOOL HOODIE",
+            "size": "350 Gram",
+            "harga": "875.000",
+            "link": "https://www.gmm-tv.com/shop/shirt/home-school-hoodie-th"
+        },
+        {
+            "foto": "images/produk/shirt_beluca.webp",
+            "nama": "BELUCA CONCERT OFFICIAL T-SHIRT",
+            "size": "150 Gram",
+            "harga": "450.000",
+            "link": "https://www.gmm-tv.com/shop/shirt/beluca-concert-official-t-shirt-th"
+        },
+        {
+            "foto": "images/produk/shirt_hiddenagenda.webp",
+            "nama": "HIDDEN AGENDA OFFICIAL T-SHIRT",
+            "size": "150 Gram",
+            "harga": "450.000",
+            "link": "https://www.gmm-tv.com/shop/shirt/hidden-agenda-remembrance-series-t-shirt-th"
+        }
+    ]
+}

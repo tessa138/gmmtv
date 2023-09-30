@@ -1,0 +1,10 @@
+<footer>
+    <div class="navigasi">
+        <a href="#best-seller">Best Seller</a>
+        <a href="#our-team">Our Team</a>
+        <a href="#review">Review</a>
+        <a href="#contact-us">Contact Us</a>
+        <a href="produk.html">Shop</a>
+    </div>
+    <p>© 2023 Kopi Kuy. All Rights Reserved</p>
+</footer>

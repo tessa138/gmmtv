@@ -1,0 +1,37 @@
+<section id="review" class="review">
+    <h2>Apa Kata Mereka?</h2>
+
+    <p>Kami berikan fakta dan data, karena kepuasan konsumen selalu nomor 1 untuk kami.</p>
+
+    <div class="testimoni">
+        <img src="images/customer/customer1.jpg">
+        <div class="profile">
+            <h3>Benny Oktavian</h3>
+            <p>Mahasiswa</p>
+        </div>
+        <p>"Perdana kesini langsung merasa cocok dari segi tempat dan rasa. Baristanya ramah
+            dan pelayanannya maksimal, tidak sungkan bertanya keinginan pengunjung."</p>
+    </div>
+
+    <div class="testimoni">
+        <img src="images/customer/customer2.jpg">
+        <div class="profile">
+            <h3>Rena Oktaviana</h3>
+            <p>Karyawan Swasta</p>
+        </div>
+        <p>"Asik buat santai sm tmn2, tempatnya nyaman dan yg bikin seru banyak game2nya yg bs
+            dimainkan bareng tmn2 atau saudara, menunya enak2, pokoknya recomend banget deh
+            tempatnya wajib coba guys!!! Pelayanannya ramah banget 🤗."</p>
+    </div>
+
+    <div class="testimoni">
+        <img src="images/customer/customer3.jpg">
+        <div class="profile">
+            <h3>Bagas Renaldo</h3>
+            <p>Dosen</p>
+        </div>
+        <p>"Tempat nya nyaman sekali pasti kalo kalian dateng betah ... selain tempat yang
+            nyaman lalu pelayanan nya good banget... dan kalian yang datang ke kopi kuy jangan
+            lewatkan permainan yang disediakan oleh kopi kuy , banyak banget game nya!"</p>
+    </div>
+</section>

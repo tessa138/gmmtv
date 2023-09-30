@@ -1,0 +1,38 @@
+var sumber = "https://rikikurnia.com/prakerja/api/kopi"
+var sumber2 = "data.json"
+
+select_kopi.onchange = function () {
+    var dipilih = this.value
+    console.log(dipilih)
+    ambilData(dipilih)
+}
+
+
+function ambilData(dipilih) {
+    var template = ""
+    $.getJSON(sumber).then(function (data) {
+        var data_kopi = data[dipilih]
+        console.log(data_kopi)
+
+        data_kopi.forEach(item => {
+            template += `<div class="col mb-4">
+                    <div class="card">
+                        <img src="${item.foto}" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">${item.nama}</h5>
+                            <div class="row my-4">
+                                <div class="col">
+                                    ${item.size}
+                                </div>
+                                <div class="col">
+                                    ${item.harga}
+                                </div>
+                            </div>
+                            <a href="${item.link}" class="btn btn-success w-100"><i class="bi bi-cart4"></i> Beli</a>
+                        </div>
+                    </div>
+                </div>`
+        });
+        document.querySelector("#baris_produk").innerHTML = template
+    })
+}

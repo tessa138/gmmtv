@@ -1,0 +1,32 @@
+<section class="our-team" id="our-team">
+
+    <h2>Our Team</h2>
+
+    <p>Kami berinvestasi dalam rasa - mulai dari pemilihan biji, metode pemanggangan,
+        hingga barista dengan sertifikat internasional. </p>
+
+    <div class="team">
+        <img src="images/team/team1.jpg">
+        <h3>Riki Steven</h3>
+        <p>Founder Kopi Kuy</p>
+    </div>
+
+    <div class="team">
+        <img src="images/team/team2.jpg">
+        <h3>Andi Asraf</h3>
+        <p>Head of Marketing</p>
+    </div>
+
+    <div class="team">
+        <img src="images/team/team3.jpg">
+        <h3>Angelina Felly</h3>
+        <p>Barista</p>
+    </div>
+
+    <div class="team">
+        <img src="images/team/team4.jpg">
+        <h3>Sarah Chou</h3>
+        <p>Barista</p>
+    </div>
+
+</section>
