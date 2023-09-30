@@ -136,7 +136,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-   background-color: #000000;
+   background-color: #0c0a0a;
 
 
    /* box-shadow membuat efek bayangan */
@@ -211,6 +211,7 @@ a.chat {
 
 header,
 section {
+   
    /*
     padding mengatur jarak ke dalam
     pada padding dan margin ditambahkan top / right / bottom / top 
@@ -227,6 +228,7 @@ section {
 header div.kiri,
 header div.kanan {
    /* width mengatur lebar elemen. 50% artinya setengah ukuran elemen pembungkus */
+   
    width: 50%;
    padding: 50px;
 }
@@ -242,9 +244,8 @@ header p {
 }
 
 div.olshop img {
-   width: 40px;
+   width:50%;
    /* aspect-ratio:1 agar tinggi menyesuaikan width */
-   aspect-ratio: 1;
    margin-right: 10px;
 }
 
@@ -267,7 +268,6 @@ section.profile {
    justify-content: space-around;
    /* align-items: stretch; membuat tinggi elemen di dalam .review .baris seragam */
    text-align: center;
-   background-color: #707070;
    margin-top: 0;
 }
 
@@ -472,13 +472,13 @@ div.team img {
    box-shadow: 0 3px 10px -2px #000;
    border-radius: 0;
    margin-bottom: 10px;
+   transition: all .3s ease;
 }
 
 div.team img:hover {
 
    /* membuat transformasi, bisa berupa scale(1.05), rotate(180deg), translateY(-50px), dsb */
    transform: scale(0.9) rotate(360deg);
-   border-radius: 50%;
 }
 
 
@@ -505,7 +505,7 @@ div.kontak {
 /* FOOTER */
 
 footer {
-   background-color: #000000;
+   background-color: #0c0a0a;
    padding-top: 15px;
    padding-bottom: 15px;
    color: #fff;
