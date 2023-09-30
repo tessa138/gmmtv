@@ -137,7 +137,7 @@ nav {
    untuk mengganti warna sesuai keinginan
    */
    background-color: #000000;
-   
+
 
    /* box-shadow membuat efek bayangan */
    box-shadow: 0 3px 7px -2px #000;
@@ -153,7 +153,7 @@ nav {
    */
    padding-top: 10px;
    padding-bottom: 10px;
-   
+
    /* 
    position mengatur posisi elemen, position:fixed supaya elemen nav akan ikut menempel di atas layar
    saat kita scroll ke bawah. Jika ingin navigasi gak nempel, bisa menggunakan position:static;
@@ -210,27 +210,14 @@ a.chat {
 
 
 header,
-/* slider */
-.hero-img {
-   display: block;
-   max-width: 97%;
-   margin: auto;
-   margin-top: 0;
-}
-
-.hero-img .slide img {
-   width: 100%;
-   height: 555px;
-   object-fit: cover;
-}
 section {
    /*
     padding mengatur jarak ke dalam
     pada padding dan margin ditambahkan top / right / bottom / top 
     untuk mengatur jarak masing-masing 
    */
-   padding-top: 60px;
-   padding-bottom: 0;
+   padding-top: 80px;
+   padding-bottom: 80px;
 
    /* margin mengatur jarak ke luar */
    margin-bottom: 80px;
@@ -264,25 +251,26 @@ div.olshop img {
 /* Profile */
 section.profile {
    background-image: url(../images/background/bg-review.svg);
-      /* 
+   /* 
          background-size: contain;
          membuat gambar latar belakang tidak terpotong
       */
-      background-size: contain;
-   
-      /* 
+   background-size: contain;
+
+   /* 
          background-repeat: no-repeat;
          membuat gambar latar belakang tidak diulang (duplikat)
       */
-      background-repeat: no-repeat;
-      padding-left: 40px;
-      padding-right: 40px;
-      justify-content: space-around;
-      /* align-items: stretch; membuat tinggi elemen di dalam .review .baris seragam */
-      text-align: center;
+   background-repeat: no-repeat;
+   padding-left: 40px;
+   padding-right: 40px;
+   justify-content: space-around;
+   /* align-items: stretch; membuat tinggi elemen di dalam .review .baris seragam */
+   text-align: center;
    background-color: #707070;
    margin-top: 0;
 }
+
 section.profile div.kiri,
 section.profile div.kanan {
    /* width mengatur lebar elemen. 50% artinya setengah ukuran elemen pembungkus */
@@ -410,6 +398,7 @@ div.produk p {
 /* About US */
 
 section.about-us {
+   background-color: #707070;
    /* max-width: 80%; mengatur lebar maksimal elemen tidak boleh melebihi 80% layar */
    max-width: 80%;
 
@@ -545,22 +534,9 @@ footer div.navigasi a {
       margin-right: 10px;
       margin-left: auto;
    }
-header,
-/* slider */
-.hero-img {
-   display: block;
-   width: 100%;
-   margin: auto;
-   margin-top: 0;
-}
 
-.hero-img .slide img {
-   width: 100%;
-   height: 555px;
-   object-fit: cover;
-}
-   section.profile div.kiri,
-   section.profile div.kanan {
+   header div.kiri,
+   header div.kanan {
       width: 100%;
       padding: 20px;
       text-align: center;
