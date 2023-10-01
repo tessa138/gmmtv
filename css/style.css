@@ -1,10 +1,65 @@
 /* Kode * di bawah ini untuk mereset tampilan setiap web browser supaya seragam */
-
-* {
-   box-sizing: border-box;
-   margin: 0;
-   padding: 0;
+:root {
+   --bs-body-font-family: 'Poppins', sans-serif !important;
 }
+
+.bg {
+   background-image: url(../images/background/bgp2.jpg);
+   background-size: 20%;
+}
+
+.bg-glass,
+.form-control:focus {
+   background: linear-gradient(to left, rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)) !important;
+   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.75) !important;
+   backdrop-filter: blur(5px) !important;
+}
+
+.c-glass {
+   background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)) !important;
+   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.75) !important;
+   backdrop-filter: blur(5px) !important;
+}
+
+.glass {
+   background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75)) !important;
+   backdrop-filter: blur(5px) !important;
+}
+
+.border-bot {
+   border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.border-top {
+   border-top: 1px solid rgba(0, 0, 0, 0.75);
+}
+
+.border-cus {
+   border: 1px solid rgba(0, 0, 0, 0.75);
+   border-top: 1px solid rgba(0, 0, 0, 0.75);
+   border-left: 1px solid rgba(0, 0, 0, 0.75);
+}
+
+option {
+   background-color: rgb(0, 0, 0);
+}
+
+.card-cus {
+   opacity: 0;
+   width: 100%;
+   height: 100%;
+   background: linear-gradient(to left, rgba(0, 0, 0, 0.700), rgba(0, 0, 0, 0.700));
+   backdrop-filter: blur(25px);
+   transform: translateY(50px);
+   transition: 0.5s;
+}
+
+.list:hover .card-cus {
+   opacity: 1;
+   transform: translateY(0);
+   transition: 0.5s;
+}
+
 
 html {
    /* scroll-behavior: smooth agar scroll ketika klik pada navigasi menjadi halus */
@@ -211,7 +266,7 @@ a.chat {
 
 header,
 section {
-   
+
    /*
     padding mengatur jarak ke dalam
     pada padding dan margin ditambahkan top / right / bottom / top 
@@ -228,7 +283,7 @@ section {
 header div.kiri,
 header div.kanan {
    /* width mengatur lebar elemen. 50% artinya setengah ukuran elemen pembungkus */
-   
+
    width: 50%;
    padding: 50px;
 }
@@ -244,7 +299,7 @@ header p {
 }
 
 div.olshop img {
-   width:50%;
+   width: 50%;
    /* aspect-ratio:1 agar tinggi menyesuaikan width */
    margin-right: 10px;
 }
@@ -480,6 +535,7 @@ div.team img:hover {
    /* membuat transformasi, bisa berupa scale(1.05), rotate(180deg), translateY(-50px), dsb */
    transform: scale(0.9) rotate(360deg);
 }
+
 
 /* CONTACT US */
 section.contact-us {
