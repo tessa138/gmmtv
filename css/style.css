@@ -596,8 +596,11 @@ footer div.navigasi a {
       text-align: center;
    }
 
+   div.team {
+      width: 100%;
+   }
+
    div.produk,
-   div.team,
    div.kontak {
       width: 50%;
    }
